@@ -34,6 +34,12 @@ new Date().toLocaleTimeString("pt-BR", {
 
 E então altera o conteúdo da página dinamicamente.
 
+**obs:** Caso queira ver as outras páginas, mude a var number por um número.
+Por ex:
+
+var hora = 12;
+
+
 ---
 
 # 📂 Estrutura do projeto
@@ -46,7 +52,8 @@ E então altera o conteúdo da página dinamicamente.
      ├── manha.png
      ├── tarde.png
      └── noite.png
-
+     
+---
 
 # ▶️ Como executar
 
@@ -58,6 +65,17 @@ cd seu-repositorio
 
 # Abra no navegador
 index.html
+
+---
+
+# 🖥️ Imagens
+
+<img width="998" height="672" alt="image" src="https://github.com/user-attachments/assets/106d4586-c592-48c8-b27b-bc9f798e731e" />
+
+<img width="1025" height="708" alt="image" src="https://github.com/user-attachments/assets/6949983b-153e-445a-9872-25968dddb63b" />
+
+<img width="1124" height="654" alt="image" src="https://github.com/user-attachments/assets/e8d95045-de96-445f-ba6f-f1a327c99ac9" />
+
      
 # ⭐ Apoie
 
