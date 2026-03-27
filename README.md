@@ -1,5 +1,4 @@
 # 📌 Sobre o projeto
-
 ### Este projeto exibe o horário atual de Brasília de forma dinâmica e altera automaticamente:
 
 - Saudação **(Bom dia / Boa tarde / Boa noite)**;
