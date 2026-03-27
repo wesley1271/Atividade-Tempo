@@ -78,7 +78,8 @@ index.html
 
 ---
 
-<img width="1124" height="654" alt="image" src="https://github.com/user-attachments/assets/e8d95045-de96-445f-ba6f-f1a327c99ac9" />
+<img width="1198" height="730" alt="image" src="https://github.com/user-attachments/assets/32fa25e8-58e5-4b8d-afdf-33e33147aada" />
+
 
   ---
   
