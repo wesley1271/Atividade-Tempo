@@ -52,7 +52,7 @@ E então altera o conteúdo da página dinamicamente.
 # ▶️ Como executar
 
 ### Clone o repositório
-(https://github.com/wesley1271/Atividade-Tempo.git)
+https://github.com/wesley1271/Atividade-Tempo.git
 
 ### Acesse a pasta
 cd seu-repositorio
